@@ -1,0 +1,37 @@
+# Android Studio File
+*.iml
+.gradle
+local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.idea/
+/captures
+.externalNativeBuild
+
+#Android Studio Navigation
+.navigation/
+
+# Keystore file
+*.jks
+
+# Các file APK đã build
+/build
+/app/build
+
+*.apk
+*.ap_
+*.dex
+*.class
+
+# File 
+bin/
+gen/
+out/
+
+
+#file log
+*.log
+
+
+
+
