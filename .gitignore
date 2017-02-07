@@ -1,10 +1,9 @@
 # Android Studio File
 *.iml
 .gradle
+.idea
 local.properties
-/.idea/workspace.xml
-/.idea/libraries
-.idea/
+
 /captures
 .externalNativeBuild
 
